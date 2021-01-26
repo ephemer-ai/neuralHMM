@@ -1,6 +1,11 @@
-# neuralHMM
+# Ephemerai Fork of existing project
 
 I've forked this to maintain as a reference, in the event that the sorce is lost. We'll have to build our own python/pytorch iteration on this concept.
+
+-------
+
+# neuralHMM
+
 
 Code of end to end unsupervised neural HMM described in our paper: https://arxiv.org/abs/1609.09007
 
